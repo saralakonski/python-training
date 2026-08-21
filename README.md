@@ -31,12 +31,36 @@ Os exercícios estão organizados por temas e níveis de dificuldade:
 - Projetos práticos
 
 ---
+### 🧭 Metodologia dos Exercícios
+
+Os exercícios deste repositório foram desenvolvidos como parte de um processo de aprendizagem prática em Python, com o apoio de ferramentas de Inteligência Artificial da OpenAI.
+
+A Inteligência Artificial é utilizada como ferramenta de apoio para elaboração dos desafios, esclarecimento de conceitos, revisão de código e identificação de possíveis melhorias. A implementação e a resolução dos exercícios são realizadas de forma independente, com o objetivo de desenvolver a capacidade de estruturar problemas, construir a lógica de solução e transformá-la em código.
+
+Cada tema é composto por 10 exercícios, organizados em uma progressão de dificuldade. Os primeiros exercícios trabalham conceitos fundamentais de forma isolada, enquanto os exercícios seguintes combinam conhecimentos aprendidos anteriormente.
+
+Cada tema possui restrições de conteúdo, permitindo utilizar apenas os conceitos estudados até aquele momento. Dessa forma, os desafios estimulam a construção da lógica de programação sem antecipar recursos ainda não estudados.
+
+À medida que avanço nos exercícios, a complexidade aumenta gradualmente em:
+
+- quantidade de informações;
+- número de etapas;
+- complexidade da lógica;
+- combinação de conceitos anteriores;
+- organização do código;
+- proximidade com situações e problemas do mundo real.
+
+O 10º exercício de cada tema é o desafio mais complexo, reunindo os principais conceitos trabalhados naquele bloco.
+
+---
+
 ### 🛠️ Tecnologias e ferramentas
 
 - Python 3
 - Git
 - GitHub
 - Visual Studio Code
+- OpenAI - GPT-5.6 Luna (apoio ao aprendizado, elaboração de exercícios, esclarecimento de conceitos e revisão de código)
 
 ---
 
@@ -44,9 +68,9 @@ Os exercícios estão organizados por temas e níveis de dificuldade:
 
 #### Fundamentos
 
-- [ ] Operações básicas
-- [ ] Entrada e saída de dados
-- [ ] Conversão de tipos
+- [x] Operações básicas
+- [x] Entrada e saída de dados
+- [x] Conversão de tipos
 - [ ] Operadores matemáticos
 - [ ] Expressões aritméticas
 
@@ -221,12 +245,36 @@ The exercises are organized by topic and difficulty level:
 
 ---
 
+### 🧭 Methodology
+
+The exercises in this repository were developed as part of a practical Python learning process, with the support of OpenAI Artificial Intelligence tools.
+
+Artificial Intelligence is used as a supporting tool for exercise design, concept clarification, code review, and identification of possible improvements. The implementation and problem-solving process are carried out independently, with the goal of developing the ability to structure problems, build solution logic, and translate that logic into code.
+
+Each topic contains 10 exercises, organized in a progressive difficulty structure. The first exercises focus on fundamental concepts individually, while the following exercises combine previously learned knowledge.
+
+Each topic has content restrictions, allowing only the concepts studied up to that point. This approach encourages the development of programming logic without introducing features that have not yet been studied.
+
+As I progress through the exercises, the complexity gradually increases in:
+
+- amount of information;
+- number of steps;
+- logic complexity;
+- combination of previously learned concepts;
+- code organization;
+- similarity to real-world situations and problems.
+
+The 10th exercise of each topic is the most complex challenge, combining the main concepts covered throughout that section.
+
+---
+
 ### 🛠️ Technologies and Tools
 
 - Python 3
 - Git
 - GitHub
 - Visual Studio Code
+- OpenAI - GPT-5.6 Luna (learning support, exercise design, concept clarification, and code review.)
 
 ---
 
@@ -234,9 +282,9 @@ The exercises are organized by topic and difficulty level:
 
 #### Fundamentals
 
-- [ ] Basic operations
-- [ ] Input and output
-- [ ] Type conversion
+- [x] Basic operations
+- [x] Input and output
+- [x] Type conversion
 - [ ] Mathematical operators
 - [ ] Arithmetic expressions
 
