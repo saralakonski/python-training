@@ -52,6 +52,20 @@ Cada tema possui restrições de conteúdo, permitindo utilizar apenas os concei
 
 O 10º exercício de cada tema é o desafio mais complexo, reunindo os principais conceitos trabalhados naquele bloco.
 
+### Update da Metodologia
+**Agosto de 2026**
+
+Durante o desenvolvimento deste projeto, percebi que aprender programação não significa apenas saber estruturar um código seguindo instruções ou resolver exercícios com o auxílio de ferramentas de IA. É igualmente importante desenvolver a capacidade de compreender problemas, identificar necessidades e pensar em soluções que poderiam ser aplicadas em situações reais.
+
+Por esse motivo, a metodologia dos exercícios foi aprimorada ao longo do projeto. Além de manter uma progressão de dificuldade, tamanho e complexidade, os exercícios passaram a ser apresentados como desafios baseados em possíveis problemas reais de empresas, sistemas e projetos.
+
+Essa mudança tem como objetivo estimular o raciocínio lógico, a autonomia na resolução de problemas e a capacidade de transformar requisitos em soluções de software, tornando o aprendizado mais próximo de situações encontradas no mercado de trabalho.
+
+A progressão também foi mantida de forma intencional: os primeiros exercícios de cada tema são menores e mais focados, enquanto os exercícios seguintes aumentam gradualmente em tamanho, complexidade e integração dos conceitos aprendidos. O décimo exercício de cada tema representa o maior desafio da unidade, reunindo diferentes conhecimentos em um problema mais completo.
+
+A IA é utilizada como ferramenta de apoio durante o processo de aprendizagem, mas o objetivo não é apenas produzir código. O foco está em compreender os conceitos, analisar os problemas, tomar decisões e desenvolver a capacidade de construir soluções de forma independente.
+
+
 ---
 
 ### 🛠️ Tecnologias e ferramentas
@@ -76,8 +90,8 @@ O 10º exercício de cada tema é o desafio mais complexo, reunindo os principai
 
 #### Strings
 
-- [ ] Entrada de strings
-- [ ] `len()`
+- [x] Entrada de strings
+- [x] `len()`
 - [ ] `upper()` e `lower()`
 - [ ] Índices de strings
 - [ ] Slicing de strings
@@ -266,6 +280,19 @@ As I progress through the exercises, the complexity gradually increases in:
 
 The 10th exercise of each topic is the most complex challenge, combining the main concepts covered throughout that section.
 
+### Methodology Update
+**August 2026**
+
+During the development of this project, I realized that learning programming is not only about knowing how to structure code by following instructions or solving exercises with the assistance of AI tools. It is equally important to develop the ability to understand problems, identify needs, and think about solutions that could be applied to real-world situations.
+
+For this reason, the methodology used for the exercises was improved throughout the project. In addition to maintaining a progression in difficulty, size, and complexity, the exercises are now presented as challenges based on possible real-world problems from companies, systems, and software projects.
+
+This change aims to encourage logical thinking, independent problem-solving, and the ability to transform requirements into software solutions, making the learning process closer to situations encountered in the professional market.
+
+The progression is also intentionally maintained: the first exercises in each topic are smaller and more focused, while later exercises gradually increase in size, complexity, and integration of previously learned concepts. The tenth exercise in each topic represents the largest challenge of the unit, combining different skills into a more complete problem.
+
+AI is used as a supporting learning tool throughout the process, but the goal is not simply to produce code. The focus is on understanding concepts, analyzing problems, making decisions, and developing the ability to build solutions independently.
+
 ---
 
 ### 🛠️ Technologies and Tools
@@ -290,8 +317,8 @@ The 10th exercise of each topic is the most complex challenge, combining the mai
 
 #### Strings
 
-- [ ] String input
-- [ ] `len()`
+- [x] String input
+- [x] `len()`
 - [ ] `upper()` and `lower()`
 - [ ] String indexing
 - [ ] String slicing
